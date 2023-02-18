@@ -542,3 +542,20 @@ background: linear-gradient(90deg, rgba(248,218,227,1) 0%, rgba(242,182,201,1) 3
 .skill-type{
     text-shadow: 1px 1px 1px #000;
 }
+
+
+
+.img-logo{
+    max-width: 5%;
+    height: auto;
+  
+  }
+
+  @media only screen and (max-width:768px){
+    .img-logo{
+      max-width: 10%;
+      height: auto;
+    
+    }
+    
+}
